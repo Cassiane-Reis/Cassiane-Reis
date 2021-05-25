@@ -11,6 +11,3 @@
 (no momento só python)
 
 [Clique aqui para acessar meu GitHub](https://github.com/Cassiane-Reis)
-
-testando...
-ta certo?
