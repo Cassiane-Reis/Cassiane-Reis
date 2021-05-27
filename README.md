@@ -1,5 +1,5 @@
 # Cassiane Reis' Profile
-<img scr ="artezinha.png" width ="300">
+<img scr ="artezinha.png" width ="200">
 
 👾 Me chamo **Cassiane Reis Nunes**, tenho *16 anos*. 
 
